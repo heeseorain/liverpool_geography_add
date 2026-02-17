@@ -3,7 +3,6 @@ title: "Understanding the Structure of Society through Mapping"
 subtitle: "Applicant Discovery Day"
 format: 
   revealjs:
-    self-contained: true
     theme: solarized
     transition: slide
     slide-number: true
@@ -66,10 +65,13 @@ We will use the ONS Census Map for the first half of the session, and the GeoDS 
 ## Neighbourhood population characteristics (GeoDS Mapmaker)
 
 -   The colour-coded patterns are relative to the UK average.
+
 -   On the right-hand side of the screen, you will find the Legend.
+
 -   For your information, the Supergroup classifications mean the following:
 
 -   [**1. Retired Professionals**: Typically married but no longer with resident dependent children and well-educated. Detached and semi-detached properties predominate. Rural lifestyle, typically sustained by using two or more cars per household.]{style="font-size:80%;"}
+
 -   [**2. Suburbanites and Peri-Urbanites**: Typically own (or are buying) their detached, semi-detached or terraced homes. Typically educated to A Level/Highers or degree level. Typically born in the UK. Pervasive in suburban locations and at or beyond the edge of cities]{style="font-size:80%;"}
 
 ## Neighbourhood population characteristics (GeoDS Mapmaker)
@@ -96,6 +98,3 @@ We will use the ONS Census Map for the first half of the session, and the GeoDS 
 -   Well done in completing the short practical! We hope that this gave you a little flavour.
 -   Our undergraudate students learn not only how to make maps like this, but how to analyse and understand them.
 -   Please do use any remaining time to ask as any question you may have about our degree or the city itself!
-
-
-
